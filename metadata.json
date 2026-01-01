@@ -1,0 +1,5 @@
+{
+  "name": "KeyPulse - Pro Keyboard Tester",
+  "description": "A professional-grade keyboard testing application for Windows and macOS. Supports 87-key TKL layout, persistence tracking, and real-time ghosting detection.",
+  "requestFramePermissions": []
+}
